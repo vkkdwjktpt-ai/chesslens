@@ -1,0 +1,1 @@
+{"size": 32, "eps": 8.0, "classes": ["bb", "bk", "bn", "bp", "bq", "br", "empty", "wb", "wk", "wn", "wp", "wq", "wr"], "layers": [1024, 384, 96, 13]}
